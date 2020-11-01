@@ -6,5 +6,5 @@ cover = "img/angga.jpeg"
 description = "Hallo ges"
 +++
 
-> Assalamualaikum, perkenalkan nama saya Muchamad Angga Dwi Wahyu
-> Bismillah Gesssssssss
+> Assalamualaikum, perkenalkan nama saya Muchamad Angga Dwi Wahyu <br>
+> Bismillah Gesssssssss </br>
