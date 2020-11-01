@@ -2,7 +2,7 @@
 title = "Perkenalan"
 date = "2020-11-1"
 author = "Muchamad Angga Dwi Wahyu"
-cover = "img/angga.jpg"
+cover = "img/angga.jpeg"
 description = "Hallo ges"
 +++
 
